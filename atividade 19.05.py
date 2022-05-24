@@ -102,4 +102,4 @@ lista_vogal = ['a','e','i','o','u']
 vogal (lista_vogal)  
 
 #Objetivo 4
-literal("ação")
+literal("ção")
